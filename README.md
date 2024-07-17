@@ -1,1 +1,1 @@
-# pc_algorithm
+# PC Algorithm
